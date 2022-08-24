@@ -2,7 +2,8 @@
 
 #### I am Hafsah Anibaba, I am a data analyst who wants to contribute to energy transition and SDG7(clean energy affordable and accessible by all).
 - 🌱 I am currently learning how to use data analysis tools, and also learning mobile application development with flutter.
-- 🔭 I’m have worked on 3 projects from ALX-Udacity nanodegree course: 
+- 🔭 Projects I have worked on: 
+    - [analysis on progress towards SDG7](https://github.com/Hafsah2020/analysis-on-sdg7)
     - [Investigate a dataset](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/Investigate_a_dataset_by_Hafsah_Anibaba)
     - [Data Wrangling](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/data_wrangling_project_by_Hafsah_Anibaba)
     - [Visualisation](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/Hafsah_Anibaba_analysis_and_visualisation)
