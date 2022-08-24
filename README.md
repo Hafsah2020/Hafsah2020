@@ -4,9 +4,9 @@
 - 🌱 I am currently learning how to use data analysis tools, and also learning mobile application development with flutter.
 - 🔭 Projects I have worked on: 
     - [analysis on progress towards SDG7](https://github.com/Hafsah2020/analysis-on-sdg7)
-    - [Investigate a dataset](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/Investigate_a_dataset_by_Hafsah_Anibaba)
-    - [Data Wrangling](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/data_wrangling_project_by_Hafsah_Anibaba)
-    - [Visualisation](https://github.com/Hafsah2020/alx_udacity_nanodegree_projects/tree/main/Hafsah_Anibaba_analysis_and_visualisation)
+    - [Investigate a dataset](https://github.com/Hafsah2020/investigate-a-dataset)
+    - [Data Wrangling](https://github.com/Hafsah2020/data_wrangling)
+    - [Loan data analysis and visualisation](https://github.com/Hafsah2020/loan_data_analysis_and_visualisation)
 
 <!--
 **Hafsah2020/Hafsah2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
